@@ -3,7 +3,7 @@
 	"tasks": [
 		{
 			"type": "cppbuild",
-			"label": "Build with GCC 12.1.0",
+			"label": "Build with GCC 12.1.0 MinGW",
 			"command": "C:\\mingw64\\bin\\g++.exe",
 			"args": [
 				"-g",
@@ -23,7 +23,7 @@
 		},
 		{
 			"type": "cppbuild",
-			"label": "Build with clang ++ 14.0.4",
+			"label": "Build with clang ++ 14.0.4 MinGW",
 			"command": "C:\\mingw64\\bin\\clang++.exe",
 			"args": [
 				"-g",
